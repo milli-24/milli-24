@@ -14,7 +14,11 @@
 
 ---
 
-### 🧠 Currently
+### Currently
+MSc Neurotechnology @Imperial, increasingly interested in RL algorithms for neuroscience applications
+
+
+### 🧠 Previously
 Summer research @ **NGNI Lab, Imperial College London** — electrode-tissue interface characterisation for HD-EMG wearables.
 
 ### 🚀 Featured project — [BCI Arm Control](https://github.com/milli-24/bci-arm-control)
